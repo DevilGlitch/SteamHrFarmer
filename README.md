@@ -1,7 +1,6 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/96wf12emnlbmo4sj?svg=true)](https://ci.appveyor.com/project/JonasNilson/idle-master-extended)
-![Github All Releases](https://img.shields.io/github/downloads/JonasNilson/idle_master_extended/total.svg)
-
-# 🚀 Idle Master Extended
+# 📈 Steam Hour Farmer 📈
+Based on [🚀 Idle Master Extended]()<br>
+Make sure to check them out for the core framework
 
 Get your [Steam Trading Cards](https://steamcommunity.com/tradingcards/) the quickest possible way.
 
