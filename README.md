@@ -1,11 +1,13 @@
 # 📈 Steam Hour Farmer 📈
 Based on [🚀 Idle Master Extended](https://github.com/JonasNilson/idle_master_extended)<br>
-Make sure to check them out for the core framework
+Make sure to check them out for the core framework.
+
+## This Will Generate Cards and Drops There will be no support for this!!!
+Goto [🚀 Idle Master Extended](https://github.com/JonasNilson/idle_master_extended) if your intrested in cards and drops.
 
 ## 🔽 Download
 
 - Coming Soon
-
 
 ## Credits
 
